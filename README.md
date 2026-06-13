@@ -141,13 +141,6 @@ lib/
 
 ---
 
-## 🗺️ Roadmap
-- [ ] **Cloud Sync**: Securely backup messages to the cloud.
-- [ ] **Spam Detection**: AI-driven filter for unwanted messages.
-- [ ] **Scheduled Messaging**: Send messages at a specific time.
-- [ ] **Encryption**: End-to-end encryption for private conversations.
-
----
 
 ## 📄 License
 
