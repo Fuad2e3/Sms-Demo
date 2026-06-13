@@ -62,17 +62,17 @@ Whether you're looking for advanced categorization, voice-enabled messaging, or 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Photos/1781322588564.jpg" width="200" alt="Home Screen">
-  <img src="Photos/1781322588567.jpg" width="200" alt="Message List">
-  <img src="Photos/1781322588572.jpg" width="200" alt="Conversation View">
-  <img src="Photos/1781322588578.jpg" width="200" alt="AI Features">
+  <img src="Photos/1.jpg" width="200" alt="Home Screen">
+  <img src="Photos/2.jpg" width="200" alt="Message List">
+  <img src="Photos/3.jpg" width="200" alt="Conversation View">
+  <img src="Photos/4.jpg" width="200" alt="AI Features">
 </p>
 
 <p align="center">
-  <img src="Photos/1781322588581.jpg" width="200" alt="Smart Reply">
-  <img src="Photos/1781322588586.jpg" width="200" alt="Settings Page">
-  <img src="Photos/1781322588590.jpg" width="200" alt="Themes & Customization">
-  <img src="Photos/1781322588594.jpg" width="200" alt="Voice Controls">
+  <img src="Photos/5.jpg" width="200" alt="Smart Reply">
+  <img src="Photos/6.jpg" width="200" alt="Settings Page">
+  <img src="Photos/7.jpg" width="200" alt="Themes & Customization">
+  <img src="Photos/8.jpg" width="200" alt="Voice Controls">
 </p>
 
 <p align="center">
