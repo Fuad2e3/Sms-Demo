@@ -1,10 +1,4 @@
-# SMS App 📱
-
-<p align="center">
-  <img src="assets/images/logo.png" width="160" alt="SMS App Logo">
-</p>
-
-<h1 align="center">SMS App</h1>
+<h1 align="center">📱 SMS App</h1>
 
 <p align="center">
   <strong>A professional, feature-rich, and intelligent SMS management application built with Flutter.</strong>
