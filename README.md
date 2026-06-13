@@ -25,7 +25,7 @@
 
 **SMS App** is a next-generation messaging solution designed for efficiency and intelligence. Migrated from a native Android architecture to Flutter, it offers a seamless experience across multiple platforms. It combines modern Material Design, AI-powered tools, and a robust offline-first architecture to provide users with a superior messaging experience.
 
-Whether you're looking for advanced categorization, voice-enabled messaging, or elegant typography support (including full Bengali localization), SMS App is built to deliver.
+Whether you're looking for advanced categorization, voice-enabled messaging, or elegant typography support, SMS App is built to deliver.
 
 ---
 
@@ -44,12 +44,12 @@ Whether you're looking for advanced categorization, voice-enabled messaging, or 
 
 ### 🎨 Premium User Experience
 - **Dynamic Themes**: Support for light, dark, and custom color schemes.
-- **Bengali Typography**: Specialized support with multiple high-quality fonts (Hind Siliguri, Solaiman Lipi, Li Adit).
+- **Modern Typography**: High-quality font support for a clean and professional look.
 - **Lottie Animations**: Engaging and lightweight visual feedback.
 - **Speed Dial**: Quick access to common actions like creating new messages.
 
 ### 🌐 Localization & Accessibility
-- **Full Bilingual Support**: Seamlessly switch between English and Bengali.
+- **Full English Support**: Optimized for English-speaking users.
 - **Accessibility Optimized**: Built with ease-of-use in mind for all users.
 
 ### 🔒 Reliability & Performance
@@ -62,14 +62,21 @@ Whether you're looking for advanced categorization, voice-enabled messaging, or 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/logo.png" width="200" alt="Home Screen">
-  <img src="assets/images/logo.png" width="200" alt="Conversation">
-  <img src="assets/images/logo.png" width="200" alt="AI Features">
-  <img src="assets/images/logo.png" width="200" alt="Settings">
+  <img src="Photos/1781322588564.jpg" width="200" alt="Home Screen">
+  <img src="Photos/1781322588567.jpg" width="200" alt="Message List">
+  <img src="Photos/1781322588572.jpg" width="200" alt="Conversation View">
+  <img src="Photos/1781322588578.jpg" width="200" alt="AI Features">
 </p>
 
 <p align="center">
-  <em>Replace placeholder images with real application screenshots in the <code>assets/images/</code> folder.</em>
+  <img src="Photos/1781322588581.jpg" width="200" alt="Smart Reply">
+  <img src="Photos/1781322588586.jpg" width="200" alt="Settings Page">
+  <img src="Photos/1781322588590.jpg" width="200" alt="Themes & Customization">
+  <img src="Photos/1781322588594.jpg" width="200" alt="Voice Controls">
+</p>
+
+<p align="center">
+  <em>Comprehensive views of the SMS App interface and its AI-driven features.</em>
 </p>
 
 ---
