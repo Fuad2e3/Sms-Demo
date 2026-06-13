@@ -90,58 +90,6 @@ Whether you're looking for advanced categorization, voice-enabled messaging, or 
 
 ---
 
-## 📂 Project Structure
-
-```bash
-lib/
-├── main.dart           # Application entry point
-├── core/               # Global configurations & app-wide logic
-│   ├── app_theme.dart  # Theme definitions
-│   ├── language.dart   # Localization logic
-│   └── app_strings.dart# Centralized string constants
-├── data/               # Translation and static data
-│   ├── en_data.dart    # English translations
-│   └── bn_data.dart    # Bengali translations
-├── pages/              # UI screens
-│   ├── home_page.dart  # Dashboard
-│   ├── sms_list.dart   # Conversation lists
-│   └── ai_page.dart    # AI integration screen
-├── tools/              # Utility functions
-│   ├── sms_utils.dart  # SMS handling logic
-│   └── tts_utils.dart  # Voice feature wrappers
-└── designs/            # Custom widgets and UI components
-    └── ai.dart         # AI-specific UI elements
-```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (>= 3.0.0)
-- [Dart SDK](https://dart.dev/get-started)
-- Android Studio / VS Code with Flutter extension
-
-### Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/Sms.git
-   cd Sms
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app:**
-   ```bash
-   flutter run
-   ```
-
----
-
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
